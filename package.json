@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/fluffy-waddle",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "description": "",
   "main": "index.js",
   "author": "zitterfe",
@@ -483,5 +483,14 @@
   "bugs": {
     "url": "https://github.com/zitterorg/fluffy-waddle/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1",
+  "dependencies": {
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  }
 }
