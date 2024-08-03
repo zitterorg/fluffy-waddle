@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/fluffy-waddle",
-  "version": "4.11.86",
+  "version": "4.11.87",
   "description": "",
   "main": "index.js",
   "author": "zitterfe",
@@ -483,7 +483,7 @@
   "bugs": {
     "url": "https://github.com/zitterorg/fluffy-waddle/issues"
   },
-  "packageManager": "yarn@4.3.1",
+  "packageManager": "yarn@4.4.0",
   "dependencies": {
     "@dramaorg/quae-dolore-nostrum": "^2.1.25",
     "@juigorg/nisi-molestiae-ut": "^2.1.25",
